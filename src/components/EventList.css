@@ -1,0 +1,86 @@
+.component-container {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.component-container h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.component-container button {
+  padding: 0.4rem 0.8rem;
+  margin-bottom: 0.8rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.component-container button:hover {
+  background-color: #0056b3;
+}
+
+.component-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.component-container li {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-family: monospace;
+  font-size: 0.9rem;
+  overflow-x: auto;
+}
+.component-container {
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.component-container h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.component-container button {
+  padding: 0.4rem 0.8rem;
+  margin-bottom: 0.8rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.component-container button:hover {
+  background-color: #0056b3;
+}
+
+.event-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.event-table th,
+.event-table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.event-table th {
+  background-color: #f0f0f0;
+}
+
